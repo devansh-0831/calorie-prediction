@@ -1,6 +1,6 @@
-# 🔥 Cal_X_AI - AI Powered Calorie Prediction System
+#  Cal_X_AI - AI Powered Calorie Prediction System
 
-## 📌 Overview
+##  Overview
 
 Cal_X_AI is a Machine Learning-powered web application that predicts a user's daily calorie requirements based on personal and lifestyle information. The application combines a trained regression model with a Django web interface to provide personalized calorie recommendations for different fitness goals such as weight loss, weight maintenance, and muscle gain.
 
@@ -8,7 +8,7 @@ The project demonstrates the complete Machine Learning workflow—from data prep
 
 ---
 
-# ✨ Features
+#  Features
 
 * Predicts daily calorie requirements
 * User-friendly web interface built with Django
@@ -22,7 +22,7 @@ The project demonstrates the complete Machine Learning workflow—from data prep
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Programming Language
 
@@ -62,7 +62,7 @@ The project demonstrates the complete Machine Learning workflow—from data prep
 
 ---
 
-# 📚 Python Libraries Used
+#  Python Libraries Used
 
 ```text
 Django
@@ -93,7 +93,7 @@ scipy.stats
 
 ---
 
-# 🧠 Machine Learning Techniques Used
+#  Machine Learning Techniques Used
 
 ## Data Cleaning
 
@@ -185,7 +185,7 @@ These files are loaded by Django during prediction.
 
 ---
 
-# 📂 Project Workflow
+#  Project Workflow
 
 ```
 Dataset
@@ -238,7 +238,7 @@ These inputs are transformed into engineered features before prediction.
 
 ---
 
-# 📈 Output
+#  Output
 
 The application predicts:
 
@@ -246,7 +246,7 @@ The application predicts:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 * Support multiple ML algorithms
 * Compare model performance
@@ -262,7 +262,7 @@ The application predicts:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 Cal_X_AI/
@@ -285,7 +285,7 @@ Cal_X_AI/
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Devansh Chandel**
 
@@ -293,7 +293,7 @@ MCA Student | Data Science & Machine Learning Enthusiast
 
 ---
 
-# 📜 License
+#  License
 
 This project is intended for educational and learning purposes. Feel free to fork, modify, and improve it.
 
